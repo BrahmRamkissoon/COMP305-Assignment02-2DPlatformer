@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: b0f6d894de6ddbf479e77b6f4e62728c
+timeCreated: 1445832365
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coin1
+    21300002: coin2
+    21300004: coin3
+    21300006: coin4
+    21300008: coin5
+    21300010: coin6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: coin1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 358
+        width: 153
+        height: 152
+      alignment: 9
+      pivot: {x: .503268003, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 143
+        height: 151
+      alignment: 9
+      pivot: {x: .496503502, y: .483443707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 128
+        height: 151
+      alignment: 9
+      pivot: {x: .515625, y: .49006623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 360
+        width: 19
+        height: 150
+      alignment: 9
+      pivot: {x: .526315808, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 52
+        width: 128
+        height: 151
+      alignment: 9
+      pivot: {x: .484375, y: .503311276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 143
+        height: 150
+      alignment: 9
+      pivot: {x: .489510477, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
