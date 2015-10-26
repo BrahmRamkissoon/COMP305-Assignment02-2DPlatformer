@@ -1,0 +1,1409 @@
+fileFormatVersion: 2
+guid: eaea3b844b19b864bb84e23826011b36
+timeCreated: 1445832670
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FantasyArcher_01_Attack1_0210
+    21300002: FantasyArcher_01_Attack1_0211
+    21300004: FantasyArcher_01_Attack1_0212
+    21300006: FantasyArcher_01_Attack1_0213
+    21300008: FantasyArcher_01_Attack1_0214
+    21300010: FantasyArcher_01_Attack1_0215
+    21300012: FantasyArcher_01_Attack1_0216
+    21300014: FantasyArcher_01_Attack1_0217
+    21300016: FantasyArcher_01_Attack1_0218
+    21300018: FantasyArcher_01_Attack1_0219
+    21300020: FantasyArcher_01_Attack1_0220
+    21300022: FantasyArcher_01_Attack1_0221
+    21300024: FantasyArcher_01_Attack1_0222
+    21300026: FantasyArcher_01_Attack1_0223
+    21300028: FantasyArcher_01_Attack1_0224
+    21300030: FantasyArcher_01_Attack2_0228
+    21300032: FantasyArcher_01_Attack2_0229
+    21300034: FantasyArcher_01_Attack2_0230
+    21300036: FantasyArcher_01_Attack2_0231
+    21300038: FantasyArcher_01_Attack2_0232
+    21300040: FantasyArcher_01_Attack2_0233
+    21300042: FantasyArcher_01_Attack2_0234
+    21300044: FantasyArcher_01_Attack2_0235
+    21300046: FantasyArcher_01_Attack2_0236
+    21300048: FantasyArcher_01_Attack2_0237
+    21300050: FantasyArcher_01_Attack2_0238
+    21300052: FantasyArcher_01_Attack2_0239
+    21300054: FantasyArcher_01_Attack2_0240
+    21300056: FantasyArcher_01_Attack2_0241
+    21300058: FantasyArcher_01_Attack2_0242
+    21300060: FantasyArcher_01_Death_0253
+    21300062: FantasyArcher_01_Death_0254
+    21300064: FantasyArcher_01_Death_0255
+    21300066: FantasyArcher_01_Death_0256
+    21300068: FantasyArcher_01_Death_0257
+    21300070: FantasyArcher_01_Death_0258
+    21300072: FantasyArcher_01_Death_0259
+    21300074: FantasyArcher_01_Death_0260
+    21300076: FantasyArcher_01_Death_0261
+    21300078: FantasyArcher_01_Death_0262
+    21300080: FantasyArcher_01_Death_0263
+    21300082: FantasyArcher_01_Death_0264
+    21300084: FantasyArcher_01_Death_0265
+    21300086: FantasyArcher_01_Death_0266
+    21300088: FantasyArcher_01_Death_0267
+    21300090: FantasyArcher_01_Hit_0245
+    21300092: FantasyArcher_01_Hit_0246
+    21300094: FantasyArcher_01_Hit_0247
+    21300096: FantasyArcher_01_Hit_0248
+    21300098: FantasyArcher_01_Hit_0249
+    21300100: FantasyArcher_01_Idle2_0143
+    21300102: FantasyArcher_01_Idle2_0144
+    21300104: FantasyArcher_01_Idle2_0145
+    21300106: FantasyArcher_01_Idle2_0146
+    21300108: FantasyArcher_01_Idle2_0147
+    21300110: FantasyArcher_01_Idle2_0148
+    21300112: FantasyArcher_01_Idle2_0149
+    21300114: FantasyArcher_01_Idle2_0150
+    21300116: FantasyArcher_01_Idle2_0151
+    21300118: FantasyArcher_01_Idle2_0152
+    21300120: FantasyArcher_01_Idle2_0153
+    21300122: FantasyArcher_01_Idle2_0154
+    21300124: FantasyArcher_01_Idle2_0155
+    21300126: FantasyArcher_01_Idle2_0156
+    21300128: FantasyArcher_01_Idle2_0157
+    21300130: FantasyArcher_01_Idle2_0158
+    21300132: FantasyArcher_01_Idle2_0159
+    21300134: FantasyArcher_01_Idle2_0160
+    21300136: FantasyArcher_01_Idle2_0161
+    21300138: FantasyArcher_01_Idle2_0162
+    21300140: FantasyArcher_01_Idle2_0163
+    21300142: FantasyArcher_01_Idle2_0164
+    21300144: FantasyArcher_01_Idle2_0165
+    21300146: FantasyArcher_01_Idle2_0166
+    21300148: FantasyArcher_01_Idle2_0167
+    21300150: FantasyArcher_01_Idle2_0168
+    21300152: FantasyArcher_01_Idle2_0169
+    21300154: FantasyArcher_01_Idle2_0170
+    21300156: FantasyArcher_01_Idle2_0171
+    21300158: FantasyArcher_01_Idle2_0172
+    21300160: FantasyArcher_01_Jump_0270
+    21300162: FantasyArcher_01_Jump_0271
+    21300164: FantasyArcher_01_Jump_0272
+    21300166: FantasyArcher_01_Jump_0273
+    21300168: FantasyArcher_01_Jump_0274
+    21300170: FantasyArcher_01_Jump_0275
+    21300172: FantasyArcher_01_Jump_0276
+    21300174: FantasyArcher_01_Jump_0277
+    21300176: FantasyArcher_01_Jump_0278
+    21300178: FantasyArcher_01_Jump_0279
+    21300180: FantasyArcher_01_Jump_0280
+    21300182: FantasyArcher_01_Jump_0281
+    21300184: FantasyArcher_01_Jump_0282
+    21300186: FantasyArcher_01_idle_0125
+    21300188: FantasyArcher_01_idle_0126
+    21300190: FantasyArcher_01_idle_0127
+    21300192: FantasyArcher_01_idle_0128
+    21300194: FantasyArcher_01_idle_0129
+    21300196: FantasyArcher_01_idle_0130
+    21300198: FantasyArcher_01_idle_0131
+    21300200: FantasyArcher_01_idle_0132
+    21300202: FantasyArcher_01_idle_0133
+    21300204: FantasyArcher_01_idle_0134
+    21300206: FantasyArcher_01_idle_0135
+    21300208: FantasyArcher_01_idle_0136
+    21300210: FantasyArcher_01_idle_0137
+    21300212: FantasyArcher_01_idle_0138
+    21300214: FantasyArcher_01_idle_0139
+    21300216: FantasyArcher_01_walk_0000
+    21300218: FantasyArcher_01_walk_0001
+    21300220: FantasyArcher_01_walk_0002
+    21300222: FantasyArcher_01_walk_0003
+    21300224: FantasyArcher_01_walk_0004
+    21300226: FantasyArcher_01_walk_0005
+    21300228: FantasyArcher_01_walk_0006
+    21300230: FantasyArcher_01_walk_0007
+    21300232: FantasyArcher_01_walk_0008
+    21300234: FantasyArcher_01_walk_0009
+    21300236: FantasyArcher_01_walk_0010
+    21300238: FantasyArcher_01_walk_0011
+    21300240: FantasyArcher_01_walk_0012
+    21300242: FantasyArcher_01_walk_0013
+    21300244: FantasyArcher_01_walk_0014
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FantasyArcher_01_Attack1_0210
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2624
+        width: 288
+        height: 290
+      alignment: 9
+      pivot: {x: .513888896, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0211
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 2744
+        width: 247
+        height: 292
+      alignment: 9
+      pivot: {x: .477732807, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0212
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2910
+        width: 207
+        height: 293
+      alignment: 9
+      pivot: {x: .526570022, y: .675767899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0213
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 3218
+        width: 232
+        height: 297
+      alignment: 9
+      pivot: {x: .5, y: .670033693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0214
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 2919
+        width: 237
+        height: 297
+      alignment: 9
+      pivot: {x: .510548532, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0215
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 3796
+        width: 233
+        height: 298
+      alignment: 9
+      pivot: {x: .532188833, y: .667785227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0216
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 2444
+        width: 219
+        height: 298
+      alignment: 9
+      pivot: {x: .566210032, y: .667785227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0217
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3797
+        width: 402
+        height: 297
+      alignment: 9
+      pivot: {x: .400497526, y: .670033693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0218
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3506
+        width: 327
+        height: 296
+      alignment: 9
+      pivot: {x: .623853207, y: .668918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0219
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3798
+        width: 324
+        height: 296
+      alignment: 9
+      pivot: {x: .620370388, y: .668918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0220
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 3798
+        width: 318
+        height: 296
+      alignment: 9
+      pivot: {x: .610062897, y: .672297299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0221
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3208
+        width: 308
+        height: 294
+      alignment: 9
+      pivot: {x: .594155848, y: .673469365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0222
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3800
+        width: 299
+        height: 294
+      alignment: 9
+      pivot: {x: .575250864, y: .676870763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0223
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3526
+        width: 298
+        height: 292
+      alignment: 9
+      pivot: {x: .540268481, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack1_0224
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3234
+        width: 293
+        height: 290
+      alignment: 9
+      pivot: {x: .51877135, y: .682758629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0228
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 3215
+        width: 281
+        height: 290
+      alignment: 9
+      pivot: {x: .501779377, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0229
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2317
+        width: 242
+        height: 287
+      alignment: 9
+      pivot: {x: .438016534, y: .693379819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0230
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2082
+        width: 191
+        height: 281
+      alignment: 9
+      pivot: {x: .455497384, y: .704626322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0231
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1615
+        width: 207
+        height: 279
+      alignment: 9
+      pivot: {x: .425120771, y: .713261664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0232
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2348
+        width: 219
+        height: 279
+      alignment: 9
+      pivot: {x: .406392694, y: .709677398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0233
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 2638
+        width: 232
+        height: 288
+      alignment: 9
+      pivot: {x: .474137932, y: .690972209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0234
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2217
+        width: 248
+        height: 290
+      alignment: 9
+      pivot: {x: .536290348, y: .682758629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0235
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3804
+        width: 414
+        height: 290
+      alignment: 9
+      pivot: {x: .415458947, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0236
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3112
+        width: 281
+        height: 290
+      alignment: 9
+      pivot: {x: .604982197, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0237
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2670
+        width: 274
+        height: 290
+      alignment: 9
+      pivot: {x: .602189779, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0238
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 2923
+        width: 269
+        height: 291
+      alignment: 9
+      pivot: {x: .591078043, y: .683848798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0239
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 2623
+        width: 261
+        height: 292
+      alignment: 9
+      pivot: {x: .570881248, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0240
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2928
+        width: 269
+        height: 292
+      alignment: 9
+      pivot: {x: .53531599, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0241
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 3222
+        width: 286
+        height: 290
+      alignment: 9
+      pivot: {x: .513985991, y: .682758629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Attack2_0242
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2335
+        width: 288
+        height: 290
+      alignment: 9
+      pivot: {x: .513888896, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0253
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2916
+        width: 301
+        height: 290
+      alignment: 9
+      pivot: {x: .548172772, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0254
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3811
+        width: 324
+        height: 283
+      alignment: 9
+      pivot: {x: .679012358, y: .703180194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0255
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3532
+        width: 317
+        height: 277
+      alignment: 9
+      pivot: {x: .712933779, y: .714801431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0256
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3820
+        width: 300
+        height: 274
+      alignment: 9
+      pivot: {x: .699999988, y: .726277351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0257
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2962
+        width: 281
+        height: 270
+      alignment: 9
+      pivot: {x: .640569389, y: .737037063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0258
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2399
+        width: 256
+        height: 269
+      alignment: 9
+      pivot: {x: .5859375, y: .739776969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0259
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 3517
+        width: 235
+        height: 277
+      alignment: 9
+      pivot: {x: .561702132, y: .718411565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0260
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2374
+        width: 212
+        height: 277
+      alignment: 9
+      pivot: {x: .551886797, y: .718411565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0261
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1487
+        width: 203
+        height: 265
+      alignment: 9
+      pivot: {x: .541871905, y: .750943422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0262
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2157
+        width: 229
+        height: 240
+      alignment: 9
+      pivot: {x: .502183378, y: .829166651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0263
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 2903
+        width: 263
+        height: 207
+      alignment: 9
+      pivot: {x: .418250948, y: .961352646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0264
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3623
+        width: 287
+        height: 180
+      alignment: 9
+      pivot: {x: .348432064, y: 1.10555553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0265
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 3991
+        width: 295
+        height: 103
+      alignment: 9
+      pivot: {x: .3457627, y: 1.93203878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0266
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3397
+        width: 295
+        height: 106
+      alignment: 9
+      pivot: {x: .3457627, y: 1.87735844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Death_0267
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 3424
+        width: 296
+        height: 106
+      alignment: 9
+      pivot: {x: .344594598, y: 1.87735844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Hit_0245
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 3805
+        width: 288
+        height: 289
+      alignment: 9
+      pivot: {x: .513888896, y: .685121119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Hit_0246
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3505
+        width: 311
+        height: 291
+      alignment: 9
+      pivot: {x: .62700963, y: .680412352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Hit_0247
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2929
+        width: 268
+        height: 291
+      alignment: 9
+      pivot: {x: .75746268, y: .683848798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Hit_0248
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3103
+        width: 288
+        height: 292
+      alignment: 9
+      pivot: {x: .642361104, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Hit_0249
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2629
+        width: 220
+        height: 288
+      alignment: 9
+      pivot: {x: .486363649, y: .690972209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0143
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3132
+        width: 290
+        height: 290
+      alignment: 9
+      pivot: {x: .517241359, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2627
+        width: 301
+        height: 290
+      alignment: 9
+      pivot: {x: .531561434, y: .682758629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0145
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3504
+        width: 310
+        height: 291
+      alignment: 9
+      pivot: {x: .554838717, y: .683848798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3213
+        width: 309
+        height: 291
+      alignment: 9
+      pivot: {x: .5825243, y: .680412352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2919
+        width: 301
+        height: 292
+      alignment: 9
+      pivot: {x: .614617944, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0148
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 3698
+        width: 294
+        height: 291
+      alignment: 9
+      pivot: {x: .629251719, y: .680412352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0149
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 3507
+        width: 293
+        height: 291
+      alignment: 9
+      pivot: {x: .627986372, y: .680412352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0150
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3802
+        width: 294
+        height: 292
+      alignment: 9
+      pivot: {x: .608843565, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0151
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3506
+        width: 296
+        height: 290
+      alignment: 9
+      pivot: {x: .577702701, y: .682758629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0152
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3213
+        width: 292
+        height: 291
+      alignment: 9
+      pivot: {x: .537671208, y: .683848798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0153
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2554
+        width: 273
+        height: 290
+      alignment: 9
+      pivot: {x: .490842491, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0154
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2638
+        width: 247
+        height: 289
+      alignment: 9
+      pivot: {x: .469635636, y: .688581288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0155
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2305
+        width: 216
+        height: 288
+      alignment: 9
+      pivot: {x: .5, y: .6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0156
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3507
+        width: 175
+        height: 288
+      alignment: 9
+      pivot: {x: .582857132, y: .690972209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0157
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 2155
+        width: 130
+        height: 287
+      alignment: 9
+      pivot: {x: .769230783, y: .693379819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0158
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2349
+        width: 152
+        height: 287
+      alignment: 9
+      pivot: {x: .690789461, y: .693379819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0159
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1446
+        width: 178
+        height: 287
+      alignment: 9
+      pivot: {x: .657303393, y: .693379819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1440
+        width: 201
+        height: 286
+      alignment: 9
+      pivot: {x: .651741266, y: .695804179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0161
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1735
+        width: 215
+        height: 286
+      alignment: 9
+      pivot: {x: .655813932, y: .695804179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0162
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 2365
+        width: 218
+        height: 286
+      alignment: 9
+      pivot: {x: .660550475, y: .695804179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0163
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1716
+        width: 207
+        height: 287
+      alignment: 9
+      pivot: {x: .671497583, y: .693379819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0164
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1768
+        width: 184
+        height: 287
+      alignment: 9
+      pivot: {x: .690217376, y: .693379819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 867
+        width: 157
+        height: 288
+      alignment: 9
+      pivot: {x: .726114631, y: .690972209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0166
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2062
+        width: 147
+        height: 288
+      alignment: 9
+      pivot: {x: .755102038, y: .690972209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0167
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2338
+        width: 165
+        height: 289
+      alignment: 9
+      pivot: {x: .666666687, y: .688581288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0168
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2348
+        width: 196
+        height: 288
+      alignment: 9
+      pivot: {x: .545918345, y: .6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1454
+        width: 220
+        height: 290
+      alignment: 9
+      pivot: {x: .481818169, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0170
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2329
+        width: 253
+        height: 290
+      alignment: 9
+      pivot: {x: .490118563, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0171
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2044
+        width: 276
+        height: 289
+      alignment: 9
+      pivot: {x: .503623188, y: .685121119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Idle2_0172
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 3038
+        width: 286
+        height: 290
+      alignment: 9
+      pivot: {x: .513985991, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0270
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3805
+        width: 288
+        height: 289
+      alignment: 9
+      pivot: {x: .513888896, y: .685121119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0271
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2846
+        width: 279
+        height: 284
+      alignment: 9
+      pivot: {x: .483870953, y: .697183073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0272
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2037
+        width: 248
+        height: 278
+      alignment: 9
+      pivot: {x: .399193555, y: .715827346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0273
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 2653
+        width: 232
+        height: 268
+      alignment: 9
+      pivot: {x: .357758611, y: .73880595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0274
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2357
+        width: 231
+        height: 264
+      alignment: 9
+      pivot: {x: .359307349, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0275
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 2595
+        width: 231
+        height: 306
+      alignment: 9
+      pivot: {x: .337662339, y: .643790841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0276
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2023
+        width: 227
+        height: 304
+      alignment: 9
+      pivot: {x: .449339211, y: .457236856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0277
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2606
+        width: 220
+        height: 302
+      alignment: 9
+      pivot: {x: .522727251, y: .440397352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0278
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1896
+        width: 226
+        height: 319
+      alignment: 9
+      pivot: {x: .522123873, y: .55799371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0279
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1754
+        width: 224
+        height: 281
+      alignment: 9
+      pivot: {x: .370535702, y: .704626322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0280
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2005
+        width: 227
+        height: 267
+      alignment: 9
+      pivot: {x: .365638763, y: .745318353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0281
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2274
+        width: 252
+        height: 278
+      alignment: 9
+      pivot: {x: .40476191, y: .715827346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_Jump_0282
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 3222
+        width: 284
+        height: 289
+      alignment: 9
+      pivot: {x: .5, y: .688581288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0125
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3804
+        width: 288
+        height: 290
+      alignment: 9
+      pivot: {x: .513888896, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0126
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 3510
+        width: 285
+        height: 290
+      alignment: 9
+      pivot: {x: .515789449, y: .682758629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0127
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 3216
+        width: 282
+        height: 292
+      alignment: 9
+      pivot: {x: .517730474, y: .678082168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0128
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2807
+        width: 278
+        height: 294
+      alignment: 9
+      pivot: {x: .517985582, y: .673469365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0129
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2917
+        width: 274
+        height: 296
+      alignment: 9
+      pivot: {x: .5182482, y: .672297299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0130
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2509
+        width: 271
+        height: 296
+      alignment: 9
+      pivot: {x: .520295203, y: .668918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0131
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2030
+        width: 270
+        height: 296
+      alignment: 9
+      pivot: {x: .522222221, y: .668918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1746
+        width: 270
+        height: 296
+      alignment: 9
+      pivot: {x: .522222221, y: .672297299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0133
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2621
+        width: 273
+        height: 295
+      alignment: 9
+      pivot: {x: .520146549, y: .674576283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2328
+        width: 276
+        height: 294
+      alignment: 9
+      pivot: {x: .518115938, y: .676870763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0135
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2918
+        width: 280
+        height: 293
+      alignment: 9
+      pivot: {x: .514285743, y: .679180861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0136
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 3404
+        width: 283
+        height: 292
+      alignment: 9
+      pivot: {x: .512367487, y: .681506872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0137
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3330
+        width: 286
+        height: 291
+      alignment: 9
+      pivot: {x: .510489523, y: .683848798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0138
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3513
+        width: 287
+        height: 289
+      alignment: 9
+      pivot: {x: .51219511, y: .685121119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_idle_0139
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 3514
+        width: 288
+        height: 289
+      alignment: 9
+      pivot: {x: .513888896, y: .685121119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0000
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3205
+        width: 174
+        height: 300
+      alignment: 9
+      pivot: {x: .643678188, y: .663333356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0001
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1145
+        width: 161
+        height: 293
+      alignment: 9
+      pivot: {x: .627329171, y: .665529013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0002
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 2151
+        width: 140
+        height: 291
+      alignment: 9
+      pivot: {x: .571428597, y: .680412352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0003
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2352
+        width: 154
+        height: 284
+      alignment: 9
+      pivot: {x: .597402573, y: .697183073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0004
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1432
+        width: 178
+        height: 282
+      alignment: 9
+      pivot: {x: .674157321, y: .705673754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0005
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2082
+        width: 195
+        height: 290
+      alignment: 9
+      pivot: {x: .72307694, y: .686206877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0006
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1858
+        width: 215
+        height: 297
+      alignment: 9
+      pivot: {x: .716279089, y: .670033693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0007
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1728
+        width: 221
+        height: 300
+      alignment: 9
+      pivot: {x: .714932144, y: .663333356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0008
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2057
+        width: 215
+        height: 298
+      alignment: 9
+      pivot: {x: .720930219, y: .664429545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1157
+        width: 200
+        height: 295
+      alignment: 9
+      pivot: {x: .735000014, y: .674576283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0010
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2015
+        width: 186
+        height: 288
+      alignment: 9
+      pivot: {x: .720430136, y: .6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0011
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1573
+        width: 183
+        height: 283
+      alignment: 9
+      pivot: {x: .650273204, y: .703180194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0012
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1327
+        width: 165
+        height: 286
+      alignment: 9
+      pivot: {x: .612121224, y: .695804179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0013
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 2052
+        width: 145
+        height: 294
+      alignment: 9
+      pivot: {x: .586206913, y: .676870763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FantasyArcher_01_walk_0014
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1186
+        width: 164
+        height: 299
+      alignment: 9
+      pivot: {x: .640243888, y: .665551841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

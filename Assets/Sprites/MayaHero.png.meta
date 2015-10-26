@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: a31ae280018b1f34db31cee887c23bca
+timeCreated: 1445832663
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_0007_attack_anim_001
+    21300002: hero_0008_attack_anim_002
+    21300004: hero_0009_attack_anim_003
+    21300006: hero_0010_attack_anim_004
+    21300008: hero_0011_attack_anim_005
+    21300010: hero_0012_attack_anim_006
+    21300012: hero_0013_attack_anim_007
+    21300014: hero_0014_attack_anim_008
+    21300016: hero_0015_attack_anim_009
+    21300018: hero_0016_attack_anim_010
+    21300020: hero_0017_attack_anim_011
+    21300022: hero_0018_death_anim_001
+    21300024: hero_0019_death_anim_002
+    21300026: hero_0020_death_anim_003
+    21300028: hero_0021_death_anim_004
+    21300030: hero_0022_death_anim_005
+    21300032: hero_0023_death_anim_006
+    21300034: hero_0024_death_anim_007
+    21300036: hero_0025_death_anim_008
+    21300038: hero_0026_death_anim_009
+    21300040: hero_0027_death_anim_010
+    21300042: hero_0028_death_anim_011
+    21300044: hero_0029_death_anim_012
+    21300046: hero_0030_death_anim_013
+    21300048: hero_0031_death_anim_014
+    21300050: hero_0032_death_anim_015
+    21300052: hero_0033_death_anim_016
+    21300054: hero_0034_death_anim_017
+    21300056: hero_0035_death_anim_018
+    21300058: hero_0036_death_anim_019
+    21300060: hero_0037_death_anim_020
+    21300062: hero_0038_death_anim_021
+    21300064: hero_0039_death_anim_022
+    21300066: hero_0040_death_anim_023
+    21300068: hero_0041_death_anim_024
+    21300070: hero_0042_death_anim_025
+    21300072: hero_0043_death_anim_026
+    21300074: hero_0044_death_anim_027
+    21300076: hero_0045_death_anim_028
+    21300078: hero_0046_falling_anim_001
+    21300080: hero_0047_falling_anim_002
+    21300082: hero_0048_falling_anim_003
+    21300084: hero_0049_falling_anim_004
+    21300086: hero_0050_falling_anim_005
+    21300088: hero_0051_falling_anim_006
+    21300090: hero_0052_falling_anim_007
+    21300092: hero_0053_falling_anim_008
+    21300094: hero_0054_falling_anim_009
+    21300096: hero_0055_falling_anim_010
+    21300098: hero_0056_falling_anim_011
+    21300100: hero_0057_falling_anim_012
+    21300102: hero_0058_fallingdeath_anim_001
+    21300104: hero_0059_fallingdeath_anim_002
+    21300106: hero_0060_fallingdeath_anim_003
+    21300108: hero_0061_fallingdeath_anim_004
+    21300110: hero_0062_fallingdeath_anim_005
+    21300112: hero_0063_fallingdeath_anim_006
+    21300114: hero_0064_fallingdeath_anim_007
+    21300116: hero_0065_fallingdeath_anim_008
+    21300118: hero_0066_hit_anim_001
+    21300120: hero_0067_jump_anim_001
+    21300122: hero_0068_jump_anim_002
+    21300124: hero_0069_jump_anim_003
+    21300126: hero_0070_jump_anim_004
+    21300128: hero_0071_jump_anim_005
+    21300130: hero_0072_jump_anim_006
+    21300132: hero_0073_jump_anim_007
+    21300134: hero_0074_jump_anim_008
+    21300136: hero_0075_jump_anim_009
+    21300138: hero_0076_jump_anim_010
+    21300140: hero_0077_jump_anim_011
+    21300142: hero_0078_jump_anim_012
+    21300144: hero_0079_slide_anim_001
+    21300146: hero_0080_slide_anim_002
+    21300148: hero_0081_slide_anim_003
+    21300150: hero_0082_slide_anim_004
+    21300152: hero_0083_slide_anim_005
+    21300154: hero_0084_slide_anim_006
+    21300156: hero_0085_slide_anim_007
+    21300158: hero_0086_slide_anim_008
+    21300160: herorun_0001_run_anim_001
+    21300162: herorun_0002_run_anim_002
+    21300164: herorun_0003_run_anim_003
+    21300166: herorun_0004_run_anim_004
+    21300168: herorun_0005_run_anim_005
+    21300170: herorun_0006_run_anim_006
+    21300172: herorun_0007_run_anim_007
+    21300174: herorun_0008_run_anim_008
+    21300176: herorun_0009_run_anim_009
+    21300178: herorun_0010_run_anim_010
+    21300180: herorun_0011_run_anim_011
+    21300182: herorun_0012_run_anim_012
+    21300184: herorun_0013_run_anim_013
+    21300186: herorun_0014_run_anim_014
+    21300188: run_0000_herorun_0001_run_anim_001.png
+    21300190: run_0001_herorun_0002_run_anim_002.png
+    21300192: run_0002_herorun_0003_run_anim_003.png
+    21300194: run_0003_herorun_0004_run_anim_004.png
+    21300196: run_0004_herorun_0005_run_anim_005.png
+    21300198: run_0005_herorun_0006_run_anim_006.png
+    21300200: run_0006_herorun_0007_run_anim_007.png
+    21300202: run_0007_herorun_0008_run_anim_008.png
+    21300204: run_0008_herorun_0009_run_anim_009.png
+    21300206: run_0009_herorun_0010_run_anim_010.png
+    21300208: run_0010_herorun_0011_run_anim_011.png
+    21300210: run_0011_herorun_0012_run_anim_012.png
+    21300212: run_0012_herorun_0013_run_anim_013.png
+    21300214: run_0013_herorun_0014_run_anim_014.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_0007_attack_anim_001
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 1287
+        width: 639
+        height: 636
+      alignment: 9
+      pivot: {x: .302034438, y: .628930807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0008_attack_anim_002
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 1287
+        width: 639
+        height: 636
+      alignment: 9
+      pivot: {x: .302034438, y: .628930807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0009_attack_anim_003
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 709
+        width: 639
+        height: 576
+      alignment: 9
+      pivot: {x: .302034438, y: .694444418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0010_attack_anim_004
+      rect:
+        serializedVersion: 2
+        x: 7289
+        y: 3352
+        width: 716
+        height: 638
+      alignment: 9
+      pivot: {x: .283519566, y: .446708471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0011_attack_anim_005
+      rect:
+        serializedVersion: 2
+        x: 7289
+        y: 3352
+        width: 716
+        height: 638
+      alignment: 9
+      pivot: {x: .283519566, y: .446708471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0012_attack_anim_006
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 3241
+        width: 817
+        height: 749
+      alignment: 9
+      pivot: {x: .60220319, y: .339118838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0013_attack_anim_007
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 3241
+        width: 817
+        height: 749
+      alignment: 9
+      pivot: {x: .60220319, y: .339118838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0014_attack_anim_008
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1659
+        width: 980
+        height: 757
+      alignment: 9
+      pivot: {x: .668367326, y: .33553502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0015_attack_anim_009
+      rect:
+        serializedVersion: 2
+        x: 6657
+        y: 936
+        width: 1288
+        height: 578
+      alignment: 9
+      pivot: {x: .591614902, y: .458477497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0016_attack_anim_010
+      rect:
+        serializedVersion: 2
+        x: 6657
+        y: 936
+        width: 1288
+        height: 578
+      alignment: 9
+      pivot: {x: .591614902, y: .458477497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0017_attack_anim_011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 757
+        height: 533
+      alignment: 9
+      pivot: {x: .30515191, y: .429643542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0018_death_anim_001
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0019_death_anim_002
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0020_death_anim_003
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0021_death_anim_004
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0022_death_anim_005
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0023_death_anim_006
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0024_death_anim_007
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0025_death_anim_008
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 45
+        width: 925
+        height: 662
+      alignment: 9
+      pivot: {x: .553513527, y: .791540802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0026_death_anim_009
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 1925
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0027_death_anim_010
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 1925
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0028_death_anim_011
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 2636
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0029_death_anim_012
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 2636
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0030_death_anim_013
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 1165
+        width: 925
+        height: 670
+      alignment: 9
+      pivot: {x: .553513527, y: .782089531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0031_death_anim_014
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 1165
+        width: 925
+        height: 670
+      alignment: 9
+      pivot: {x: .553513527, y: .782089531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0032_death_anim_015
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0033_death_anim_016
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0034_death_anim_017
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0035_death_anim_018
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0036_death_anim_019
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0037_death_anim_020
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0038_death_anim_021
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0039_death_anim_022
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0040_death_anim_023
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0041_death_anim_024
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0042_death_anim_025
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0043_death_anim_026
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0044_death_anim_027
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0045_death_anim_028
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 3322
+        width: 925
+        height: 668
+      alignment: 9
+      pivot: {x: .553513527, y: .784431159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0046_falling_anim_001
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1492
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0047_falling_anim_002
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1492
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0048_falling_anim_003
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1492
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0049_falling_anim_004
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2325
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0050_falling_anim_005
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2325
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0051_falling_anim_006
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2325
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0052_falling_anim_007
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 663
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0053_falling_anim_008
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 663
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0054_falling_anim_009
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 663
+        width: 864
+        height: 827
+      alignment: 9
+      pivot: {x: .304398149, y: .484885126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0055_falling_anim_010
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3154
+        width: 864
+        height: 836
+      alignment: 9
+      pivot: {x: .304398149, y: .479665071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0056_falling_anim_011
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3154
+        width: 864
+        height: 836
+      alignment: 9
+      pivot: {x: .304398149, y: .479665071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0057_falling_anim_012
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3154
+        width: 864
+        height: 836
+      alignment: 9
+      pivot: {x: .304398149, y: .479665071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0058_fallingdeath_anim_001
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 655
+        width: 599
+        height: 831
+      alignment: 9
+      pivot: {x: .21202004, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0059_fallingdeath_anim_002
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 655
+        width: 599
+        height: 831
+      alignment: 9
+      pivot: {x: .21202004, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0060_fallingdeath_anim_003
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1488
+        width: 605
+        height: 831
+      alignment: 9
+      pivot: {x: .219834715, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0061_fallingdeath_anim_004
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1488
+        width: 605
+        height: 831
+      alignment: 9
+      pivot: {x: .219834715, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0062_fallingdeath_anim_005
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2321
+        width: 613
+        height: 831
+      alignment: 9
+      pivot: {x: .230016306, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0063_fallingdeath_anim_006
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2321
+        width: 613
+        height: 831
+      alignment: 9
+      pivot: {x: .230016306, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0064_fallingdeath_anim_007
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 655
+        width: 598
+        height: 831
+      alignment: 9
+      pivot: {x: .210702345, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0065_fallingdeath_anim_008
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 655
+        width: 598
+        height: 831
+      alignment: 9
+      pivot: {x: .210702345, y: .370637774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0066_hit_anim_001
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3232
+        width: 853
+        height: 758
+      alignment: 9
+      pivot: {x: .484173506, y: .439313978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0067_jump_anim_001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3128
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0068_jump_anim_002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3128
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0069_jump_anim_003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3128
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0070_jump_anim_004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2264
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0071_jump_anim_005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2264
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0072_jump_anim_006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2264
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0073_jump_anim_007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1400
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0074_jump_anim_008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1400
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0075_jump_anim_009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1400
+        width: 701
+        height: 862
+      alignment: 9
+      pivot: {x: .398002863, y: .455916464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0076_jump_anim_010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 537
+        width: 701
+        height: 861
+      alignment: 9
+      pivot: {x: .398002863, y: .455284566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0077_jump_anim_011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 537
+        width: 701
+        height: 861
+      alignment: 9
+      pivot: {x: .398002863, y: .455284566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0078_jump_anim_012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 537
+        width: 701
+        height: 861
+      alignment: 9
+      pivot: {x: .398002863, y: .455284566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0079_slide_anim_001
+      rect:
+        serializedVersion: 2
+        x: 7091
+        y: 379
+        width: 963
+        height: 555
+      alignment: 9
+      pivot: {x: .288681209, y: .749549568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0080_slide_anim_002
+      rect:
+        serializedVersion: 2
+        x: 7091
+        y: 379
+        width: 963
+        height: 555
+      alignment: 9
+      pivot: {x: .288681209, y: .749549568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0081_slide_anim_003
+      rect:
+        serializedVersion: 2
+        x: 6961
+        y: 2155
+        width: 999
+        height: 526
+      alignment: 9
+      pivot: {x: .273273259, y: .790874541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0082_slide_anim_004
+      rect:
+        serializedVersion: 2
+        x: 6961
+        y: 2155
+        width: 999
+        height: 526
+      alignment: 9
+      pivot: {x: .273273259, y: .790874541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0083_slide_anim_005
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 1516
+        width: 997
+        height: 637
+      alignment: 9
+      pivot: {x: .271815449, y: .822605968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0084_slide_anim_006
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 1516
+        width: 997
+        height: 637
+      alignment: 9
+      pivot: {x: .271815449, y: .822605968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0085_slide_anim_007
+      rect:
+        serializedVersion: 2
+        x: 6131
+        y: 55
+        width: 958
+        height: 652
+      alignment: 9
+      pivot: {x: .280793309, y: .803680956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_0086_slide_anim_008
+      rect:
+        serializedVersion: 2
+        x: 6131
+        y: 55
+        width: 958
+        height: 652
+      alignment: 9
+      pivot: {x: .280793309, y: .803680956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0001_run_anim_001
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1520
+        width: 767
+        height: 803
+      alignment: 9
+      pivot: {x: .559322059, y: .596513093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0002_run_anim_002
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1520
+        width: 767
+        height: 803
+      alignment: 9
+      pivot: {x: .559322059, y: .596513093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0003_run_anim_003
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 400
+        width: 677
+        height: 673
+      alignment: 9
+      pivot: {x: .556868553, y: .778603256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0004_run_anim_004
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 3
+        width: 536
+        height: 650
+      alignment: 9
+      pivot: {x: .539179087, y: .801538467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0005_run_anim_005
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 2497
+        width: 664
+        height: 742
+      alignment: 9
+      pivot: {x: .57530123, y: .702156305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0006_run_anim_006
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 3252
+        width: 857
+        height: 738
+      alignment: 9
+      pivot: {x: .585764289, y: .565040648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0007_run_anim_007
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 3252
+        width: 857
+        height: 738
+      alignment: 9
+      pivot: {x: .585764289, y: .565040648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0008_run_anim_008
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 737
+        width: 887
+        height: 781
+      alignment: 9
+      pivot: {x: .613303244, y: .560819447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0009_run_anim_009
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 737
+        width: 887
+        height: 781
+      alignment: 9
+      pivot: {x: .613303244, y: .560819447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0010_run_anim_010
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2418
+        width: 904
+        height: 767
+      alignment: 9
+      pivot: {x: .584070802, y: .64146024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0011_run_anim_011
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 8
+        width: 644
+        height: 653
+      alignment: 9
+      pivot: {x: .697204947, y: .788667679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0012_run_anim_012
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 208
+        width: 676
+        height: 709
+      alignment: 9
+      pivot: {x: .557692289, y: .700987279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0013_run_anim_013
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 1786
+        width: 775
+        height: 709
+      alignment: 9
+      pivot: {x: .514838696, y: .613540173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herorun_0014_run_anim_014
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 1786
+        width: 775
+        height: 709
+      alignment: 9
+      pivot: {x: .514838696, y: .613540173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0000_herorun_0001_run_anim_001.png
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3187
+        width: 767
+        height: 803
+      alignment: 9
+      pivot: {x: .559322059, y: .596513093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0001_herorun_0002_run_anim_002.png
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2479
+        width: 767
+        height: 751
+      alignment: 9
+      pivot: {x: .559322059, y: .568575203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0002_herorun_0003_run_anim_003.png
+      rect:
+        serializedVersion: 2
+        x: 7289
+        y: 2683
+        width: 677
+        height: 667
+      alignment: 9
+      pivot: {x: .556868553, y: .785607219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0003_herorun_0004_run_anim_004.png
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 1987
+        width: 536
+        height: 647
+      alignment: 9
+      pivot: {x: .539179087, y: .805254996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0004_herorun_0005_run_anim_005.png
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 5
+        width: 664
+        height: 730
+      alignment: 9
+      pivot: {x: .57530123, y: .713698626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0005_herorun_0006_run_anim_006.png
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 919
+        width: 748
+        height: 738
+      alignment: 9
+      pivot: {x: .525401056, y: .565040648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0006_herorun_0007_run_anim_007.png
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 1837
+        width: 748
+        height: 702
+      alignment: 9
+      pivot: {x: .525401056, y: .594017088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0007_herorun_0008_run_anim_008.png
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 3306
+        width: 728
+        height: 684
+      alignment: 9
+      pivot: {x: .528846145, y: .640350878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0008_herorun_0009_run_anim_009.png
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 2595
+        width: 729
+        height: 684
+      alignment: 9
+      pivot: {x: .529492438, y: .640350878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0009_herorun_0010_run_anim_010.png
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3
+        width: 738
+        height: 650
+      alignment: 9
+      pivot: {x: .490514904, y: .756923079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0010_herorun_0011_run_anim_011.png
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 8
+        width: 494
+        height: 653
+      alignment: 9
+      pivot: {x: .605263174, y: .788667679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0011_herorun_0012_run_anim_012.png
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 1075
+        width: 676
+        height: 709
+      alignment: 9
+      pivot: {x: .557692289, y: .700987279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0012_herorun_0013_run_anim_013.png
+      rect:
+        serializedVersion: 2
+        x: 4873
+        y: 3281
+        width: 757
+        height: 709
+      alignment: 9
+      pivot: {x: .527080595, y: .613540173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0013_herorun_0014_run_anim_014.png
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 2541
+        width: 774
+        height: 709
+      alignment: 9
+      pivot: {x: .515503883, y: .613540173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
