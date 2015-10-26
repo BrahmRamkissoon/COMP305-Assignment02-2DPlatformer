@@ -4,13 +4,13 @@
 // Description: all things controlled by player sprite
 // Revision:        - added coin sound
 //                  - added player movement along x and y axes, adjusted scale
-//              
+//                  - added idle, walk, jump animation             
 
 
 using UnityEngine;
 using System.Collections;
 
-// Utliity class for velocity range
+// Velocity Range Utliity class
 [System.Serializable]
 public class VelocityRange
 {
@@ -26,6 +26,10 @@ public class VelocityRange
 // Player controller class
 public class PlayerController : MonoBehaviour {
 
+    // PUBLIC INSTANCE VARIABLES
+    public float speed = 50f;
+    public float jump = 500f;
+
     // PRIVATE INSTANCE VARIABLES
     private AudioSource[] _audioSources;
     private AudioSource _coinSound;
@@ -36,11 +40,6 @@ public class PlayerController : MonoBehaviour {
     private float _movingValue = 0f;        // check movement 
     private bool _isFacingRight = true;
     private bool _isGrounded = true;
-
-
-    // PUBLIC INSTANCE VARIABLES
-    public float speed = 50f;
-    public float jump = 500f;
 
     // Set velocity range
     public VelocityRange velocityRange = new VelocityRange( 300f, 1000f );      
@@ -57,7 +56,7 @@ public class PlayerController : MonoBehaviour {
         // Reference shortcuts
         this._rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
         this._transform = gameObject.GetComponent<Transform>();
-        // this._animator = gameObject.GetComponent <Animator>();
+        this._animator = gameObject.GetComponent <Animator>();
     }
 
     // Physics Update 
@@ -75,6 +74,7 @@ public class PlayerController : MonoBehaviour {
         if ( this._movingValue != 0 )
         {
             // we're moving
+            this._animator.SetInteger( "AnimState", 1 );            // Play walk clip
             if ( this._movingValue > 0 )
             {   // moving right
                 this._isFacingRight = true;
@@ -96,6 +96,7 @@ public class PlayerController : MonoBehaviour {
         }
         else if ( this._movingValue == 0 )
         {   // we're idle
+            this._animator.SetInteger( "AnimState", 0 );            // Play idle clip
         }
 
         // Check if player is jumping
@@ -104,11 +105,12 @@ public class PlayerController : MonoBehaviour {
             // Check if the player is grounded
             if ( this._isGrounded )
             {   // player is jumping
+                this._jumpSound.Play();
+                this._isGrounded = false;
+                this._animator.SetInteger( "AnimState", 2 );        // Play jump anim
                 if ( absVelY < this.velocityRange.vMax )
                 {
                     forceY = this.jump;
-                    this._jumpSound.Play();
-                    this._isGrounded = false;
                 }
             }
         }
@@ -129,7 +131,7 @@ public class PlayerController : MonoBehaviour {
     // Set isGrounded true while touching ground
     void OnCollisionStay2D ( Collision2D otherCollider )
     {
-        if ( otherCollider.gameObject.CompareTag("Platform") )
+        if ( otherCollider.gameObject.CompareTag("Platform") || otherCollider.gameObject.CompareTag("Boss") )
         {
             this._isGrounded = true;
         }
